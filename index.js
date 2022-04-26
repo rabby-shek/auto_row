@@ -1,7 +1,7 @@
 
 
 function generate() {
-    var SHOW = Number(document.getElementById("value").value);
+    let  SHOW = Number(document.getElementById("value").value);
     var takeValue = document.getElementById("show");
 
 
